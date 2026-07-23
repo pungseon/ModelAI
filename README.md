@@ -91,7 +91,6 @@ The model performance is evaluated using the following metrics:
 * Precision
 * Recall
 * F1-Score
-* Confusion Matrix
 
 ### Evaluation Results
 ![Machine Learning Pipeline](docs/f1score.png)
@@ -123,9 +122,6 @@ ModelAI/
 │
 └── requirements.txt
 ```
-
-> The project structure may vary depending on the final implementation.
-
 ---
 
 ## 🚀 How It Works
