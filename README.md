@@ -1,4 +1,4 @@
-# ModelAI – Machine Learning Document Classification
+# Docreadiness-with-ML – Machine Learning Document Classification
 
 ## 📌 Project Overview
 
