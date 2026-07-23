@@ -94,19 +94,7 @@ The model performance is evaluated using the following metrics:
 * Confusion Matrix
 
 ### Evaluation Results
-
-> Add your actual model evaluation results here.
-
-| Metric    | Score |
-| --------- | ----: |
-| Accuracy  |   94.2% |
-| Precision |   93.8% |
-| Recall    |   92.7% |
-| F1-Score  |   93.1% |
-
-### Confusion Matrix
-
-> Add the confusion matrix image here.
+![Machine Learning Pipeline](docs/f1score.png)
 
 ---
 
