@@ -23,35 +23,6 @@ The main objectives of this project are:
 
 ## 🏗️ Machine Learning Pipeline
 ![Machine Learning Pipeline](docs/architecture.png)
-The overall workflow of the system is:
-
-```text
-Input Document
-      │
-      ▼
-Text Extraction / OCR
-      │
-      ▼
-Text Preprocessing
-      │
-      ▼
-Feature Extraction
-      │
-      ├── TF-IDF Features
-      ├── Keyword Features
-      └── Metadata Features
-      │
-      ▼
-Machine Learning Model
-      │
-      ▼
-Document Classification
-      │
-      ▼
-Predicted Document Category
-```
-
----
 
 ## 🤖 Machine Learning Approach
 
