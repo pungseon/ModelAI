@@ -22,7 +22,7 @@ The main objectives of this project are:
 ---
 
 ## 🏗️ Machine Learning Pipeline
-
+![Machine Learning Pipeline](docs/architecture.png)
 The overall workflow of the system is:
 
 ```text
